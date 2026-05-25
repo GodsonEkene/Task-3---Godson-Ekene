@@ -20,16 +20,19 @@ The analysis focused on identifying:
 ## Dataset Features
 The dataset included:
 - OrderID
-- CustomerID
+- Date
+- customerID
 - Product
 - Quantity
 - UnitPrice
-- TotalPrice
+- ShippngAddress
 - PaymentMethod
 - OrderStatus
-- ReferralSource
+- TrackingNumber
+- ItemsinCart
 - CouponCode
-- Date
+- ReferralSource
+- TotalPrice
 
 ## SQL Concepts Used
 - SELECT
